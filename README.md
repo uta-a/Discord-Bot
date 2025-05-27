@@ -7,6 +7,6 @@ etc...
 ---
 
 npm install
-```js
+```node.js
 npm i dotenv axios discord.js @discordjs/voice @google/generative-ai deepl-node
 ```
